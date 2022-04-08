@@ -18,6 +18,12 @@
             <category>buildings</category>
             <tab>containers</tab>
         </brush>
+        <vertexBufferMemoryUsage>134656</vertexBufferMemoryUsage>
+        <indexBufferMemoryUsage>23296</indexBufferMemoryUsage>
+        <textureMemoryUsage>2162688</textureMemoryUsage>
+        <audioMemoryUsage>0</audioMemoryUsage>
+        <instanceVertexBufferMemoryUsage>0</instanceVertexBufferMemoryUsage>
+        <instanceIndexBufferMemoryUsage>0</instanceIndexBufferMemoryUsage>
     </storeData>
 
     <base>
